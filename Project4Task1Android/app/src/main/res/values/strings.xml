@@ -1,0 +1,10 @@
+<!--
+Cannon Wu
+AndrewID: clwu
+-->
+<!-- Code from https://github.com/CMU-Heinz-95702/lab8-Android -->
+<resources>
+    <string name="app_name">Next Sports Match</string>
+    <string name="hello">Type a sport key to find an upcoming game.\nTry: basketball_nba, icehockey_nhl</string>
+    <string name="action_settings">Action</string>
+</resources>

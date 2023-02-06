@@ -1,0 +1,20 @@
+// Cannon Wu
+// AndrewID: clwu
+
+// Code from https://github.com/CMU-Heinz-95702/lab8-Android
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Project4Task1Android"
+include ':app'
